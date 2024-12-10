@@ -1,0 +1,52 @@
+[
+    {
+        "p_rel_url" : "Jayasurya010/Supermarket-Data-Engineering-Project/main/Data/Supermarket_Product_Categories.csv",
+        "p_sink_folder" : "Supermarket_Product_Categories",
+        "p_sink_file" : "Supermarket_Product_Categories.csv"
+    },
+    {
+        "p_rel_url" : "Jayasurya010/Supermarket-Data-Engineering-Project/main/Data/Supermarket_Calendar.csv",
+        "p_sink_folder" : "Supermarket_Calendar",
+        "p_sink_file" : "Supermarket_Calendar.csv"
+    },
+    {
+        "p_rel_url" : "Jayasurya010/Supermarket-Data-Engineering-Project/main/Data/Supermarket_Customers.csv",
+        "p_sink_folder" : "Supermarket_Customers",
+        "p_sink_file" : "Supermarket_Customers.csv"
+    },
+    {
+        "p_rel_url" : "Jayasurya010/Supermarket-Data-Engineering-Project/main/Data/Supermarket_Product_Subcategories.csv",
+        "p_sink_folder" : "Product_Subcategories",
+        "p_sink_file" : "Supermarket_Product_Subcategories.csv"
+    },
+    {
+        "p_rel_url" : "Jayasurya010/Supermarket-Data-Engineering-Project/main/Data/Supermarket_Products.csv",
+        "p_sink_folder" : "Supermarket_Products",
+        "p_sink_file" : "Supermarket_Products.csv"
+    },
+    {
+        "p_rel_url" : "Jayasurya010/Supermarket-Data-Engineering-Project/main/Data/Supermarket_Returns.csv",
+        "p_sink_folder" : "Supermarket_Returns",
+        "p_sink_file":"Supermarket_Returns.csv"
+    },
+    {
+        "p_rel_url" : "Jayasurya010/Supermarket-Data-Engineering-Project/main/Data/Supermarket_Sales_2015.csv",
+        "p_sink_folder" : "Supermarket_Sales_2015",
+        "p_sink_file" : "Supermarket_Sales_2015.csv"
+    },
+    {
+        "p_rel_url" : "Jayasurya010/Supermarket-Data-Engineering-Project/main/Data/Supermarket_Sales_2016.csv",
+        "p_sink_folder" : "Supermarket_Sales_2016",
+        "p_sink_file" : "Supermarket_Sales_2016.cvsv"
+    },
+    {
+        "p_rel_url" : "Jayasurya010/Supermarket-Data-Engineering-Project/main/Data/Supermarket_Sales_2017.csv",
+        "p_sink_folder" : "Supermarket_Sales_2017",
+        "p_sink_file" : "Supermarket_Sales_2017.csv"
+    },
+    {
+        "p_rel_url" : "Jayasurya010/Supermarket-Data-Engineering-Project/main/Data/Supermarket_Territories.csv",
+        "p_sink_folder" : "Supermarket_Territories",
+        "p_sink_file" : "Supermarket_Territories.csv"
+    }
+]
